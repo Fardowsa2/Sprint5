@@ -1,0 +1,8 @@
+SIMPLE,8,Computer,Computer
+2,1,S
+5,4,S
+4,1,S
+7,4,S
+2,6,S
+3,0,O
+6,4,O
